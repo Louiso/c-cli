@@ -21,6 +21,16 @@ c-client@^1.0.0:
   dependencies:
     fs-extra "^8.1.0"
 
+c-client@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/c-client/-/c-client-1.0.1.tgz#e89173fcd8cd2d08b941c608d4c68ea48054d75d"
+  integrity sha512-X1jZ99xG0rXFBWKtZ61Eax/EBMZswW6tAIQqIzfgNLrGd9UeBuLTvtqr1tp4YJet4UHWFBL0psC+ZXe8SxiR0A==
+  dependencies:
+    c-client "^1.0.0"
+    fs-extra "^8.1.0"
+    global "^4.4.0"
+    yargs "^13.2.4"
+
 camelcase@^5.0.0:
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-5.3.1.tgz#e3c9b31569e106811df242f715725a1f4c494320"
