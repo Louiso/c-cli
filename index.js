@@ -1,3 +1,5 @@
+'use-strict'
+
 const fs = require('fs');
 const fsx = require('fs-extra');
 const argv = require('yargs')
